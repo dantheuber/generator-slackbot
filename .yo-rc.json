@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daniel Essig",
+      "authorEmail": "dan.essig@gmail.com",
+      "authorUrl": "http://github.com/dantheuber"
+    }
+  }
+}
